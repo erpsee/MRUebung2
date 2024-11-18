@@ -1,4 +1,4 @@
-import * as THREE from "three";
+import * as THREE from 'three';
 // global scene values
 var btn, gl, glCanvas, camera, scene, renderer, cube;
 
